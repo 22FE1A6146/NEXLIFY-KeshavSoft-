@@ -75,17 +75,8 @@ All components were **remixed from Bootstrap 5 Examples**, **not copied**, and e
 ---
 
 ## Total Time Taken
+1 hour
 
-| Phase | Time |
-|------|------|
-| Research & Planning | 1 hour |
-| Component Study | 1 hour |
-| Page Building | 2.5 hours |
-| Styling & Polish | 1 hour |
-| Testing & Deployment | 30 mins |
-| **Total** | **6 hours** over **2 days**
-
----
 
 ## Submission Links
 
