@@ -1,6 +1,6 @@
 # Nexlify – Bootstrap 5 UI Internship Task  
 **Submitted by:** **Vuppala Vaishnavi**  
-**Live Demo:** https://vaishnavi-vuppala.github.io/nexlify-bootstrap  
+**Live Demo:** http://www.nexlify.com/ 
 **GitHub Repo:** https://github.com/22FE1A6146/NEXLIFY-KeshavSoft-
 
 ---
@@ -90,7 +90,7 @@ All components were **remixed from Bootstrap 5 Examples**, **not copied**, and e
 ## Submission Links
 
 - **GitHub Repository**: `https://github.com/22FE1A6146/NEXLIFY-KeshavSoft-`  
-- **Live Preview**: `https://vaishnavi-vuppala.github.io/nexlify-bootstrap`  
+- **Live Preview**: `http://www.nexlify.com/`  
 - **Reflection Report**: This `README.md` (also available as PDF)
 
 ---
