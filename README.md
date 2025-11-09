@@ -81,8 +81,8 @@ All components were **remixed from Bootstrap 5 Examples**, **not copied**, and e
 ## Submission Links
 
 - **GitHub Repository**: `https://github.com/22FE1A6146/NEXLIFY-KeshavSoft-`  
-- **Live Preview**: `http://www.nexlify.com/`  
-- **Reflection Report**: This `README.md` (also available as PDF)
+- **Live Preview**: `https://22fe1a6146.github.io/NEXLIFY-KeshavSoft-/`  
+- **Reflection Report**: This `README.md`
 
 ---
 
