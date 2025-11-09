@@ -9,9 +9,24 @@ body {
   line-height: 1.6;
 }
 
+/* HERO SECTION FIX */
 .hero {
-  background: linear-gradient(135deg, #4361ee 0%, #3f37c9 100%);
-  padding-top: 80px;
+  padding-top: 80px; /* prevents overlap with navbar */
+  min-height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url('https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80')
+              center/cover no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+/* Text glow for visibility */
+.text-shadow {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+}
+
+.text-shadow-lg {
+  text-shadow: 3px 3px 12px rgba(0,0,0,0.8);
 }
 
 .icon {
