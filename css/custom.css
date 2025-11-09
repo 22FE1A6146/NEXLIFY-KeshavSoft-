@@ -1,0 +1,46 @@
+/* Custom Styles */
+:root {
+  --bs-primary: #4361ee;
+  --bs-primary-rgb: 67, 97, 238;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+.hero {
+  background: linear-gradient(135deg, #4361ee 0%, #3f37c9 100%);
+  padding-top: 80px;
+}
+
+.icon {
+  font-size: 2.5rem;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-primary:hover {
+  background-color: #3f37c9;
+  border-color: #3f37c9;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.navbar {
+  transition: all 0.3s;
+}
+
+.navbar.scrolled {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px);
+}
